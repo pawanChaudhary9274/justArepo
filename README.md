@@ -24,7 +24,7 @@ __Also Bold__
 Demo Repository
 
 first name | Last Name
------------------------
+-----------|-----------
 Mikey | Aurthor
 
 [Go to the sample link](www.youtube.com)
