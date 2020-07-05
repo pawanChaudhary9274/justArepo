@@ -22,6 +22,9 @@ __Also Bold__
 ![Chelsea Logo](Logo.png)
 
 Demo Repository
+first name | Last Name
+-----------------------
+Mikey | Aurthor
 
 [Go to the sample link](www.youtube.com)
 :heart_eyes:
