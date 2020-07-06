@@ -1,3 +1,4 @@
 Hello Git
-fsjfsa
-aflas
+IM begineer 
+I'm practising git
+
